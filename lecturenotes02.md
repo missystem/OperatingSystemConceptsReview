@@ -1,16 +1,16 @@
-## [Lecutre 02: OS Structure and System Calls (Chapter 2)](https://github.com/missystem/cis415review/blob/master/lecture-2-structure.pdf)
+## [Lecutre 02: OS Structure and System Calls (Chapter 2)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-2-structure.pdf)
 
 ## Outline
 * Hardware and OS relationship
-* [Operating System Services](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#operating-system-services)
-* [System Calls](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#systems-calls)
-* [Types of System Calls](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#types-of-system-calls)
-* [System Programs](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#system-programs-system-services)
-* [Operating System Design and Implementation](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#os-design-and-implementation)
-* [Operating System Structure](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#operating-system-structure)
-* [Building and Booting an Operating System](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#building-and-booting-an-operating-system)
-* [Operating System Debugging](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#operating-system-debugging)
-* [Summary](https://github.com/missystem/cis415review/blob/master/lecturenotes02.md#summary)
+* [Operating System Services](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#operating-system-services)
+* [System Calls](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#systems-calls)
+* [Types of System Calls](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#types-of-system-calls)
+* [System Programs](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#system-programs-system-services)
+* [Operating System Design and Implementation](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#os-design-and-implementation)
+* [Operating System Structure](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#operating-system-structure)
+* [Building and Booting an Operating System](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#building-and-booting-an-operating-system)
+* [Operating System Debugging](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#operating-system-debugging)
+* [Summary](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes02.md#summary)
 
 
 ### Objectives
