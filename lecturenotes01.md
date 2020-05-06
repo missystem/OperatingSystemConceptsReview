@@ -1,4 +1,4 @@
-## [Lecture 01: Introduction to Operating Systems (Chapter 1)](https://github.com/missystem/cis415review/blob/master/lecture-1-introduction.pdf)
+## [Lecture 01: Introduction to Operating Systems (Chapter 1)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-1-introduction.pdf)
 
 ### What is Operating System
 - a program that acts as an intermediary between a user of a computer and the computer hardware
@@ -40,13 +40,13 @@
 	- word processors, compilers, web browsers, database systems, video games, ...
 * Users
 	- People, machines, other computers
- <img src="https://github.com/missystem/cis415review/blob/master/ch1_OSstructure.png">
+ <img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_OSstructure.png">
 
 ### Basic Computer System Organization
 * Computer-system operation
 	- One or more CPUs, device ontrollers connect through common bus providing access to shared memory
 	- Concurrent execution of CPUs and devices competing for memory cycles
-<img src="https://github.com/missystem/cis415review/blob/master/ch1_systembus.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_systembus.png">
 
 ### Computer System Architecture
 * Traditionally, most systems use a single general-purpose processor 
@@ -116,7 +116,7 @@
 ### Device I/O - How a modern computer works?
 How a modern computer system works?
 	von Neumann architecture
-<img src="https://github.com/missystem/cis415review/blob/master/ch1_von_Neumann_architecture.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_von_Neumann_architecture.png">
 
 ### Common Functions of Interrupts
 * Interrupt transfers control to the interrupt service routine, generally through an interrupt vectors
@@ -143,10 +143,10 @@ After I/O starts, control returns to user program ...
 	- OS indexes into I/O device table to determine device status and to modify table entry to include interrupt
 
 ### Interrupt Timeline
-<img src="https://github.com/missystem/cis415review/blob/master/ch1_interrupt_timeline.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_interrupt_timeline.png">
 
 ### I/O Sturcture - 2 Methods
-<img src="https://github.com/missystem/cis415review/blob/master/ch1_two_IO_methods.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_two_IO_methods.png">
 * Synchronous
 	- After I/O starts, control returns to user program only upon I/O completion
 	- A wait instruction idles the CPU until next interrupt
@@ -158,7 +158,7 @@ After I/O starts, control returns to user program ...
 	- I/O interrupts upon completion
 
 ### Device Status Table
-<img src="https://github.com/missystem/cis415review/blob/master/ch1_device_status_table.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/ch1_device_status_table.png">
 * When a kernel supports asynchronous I/O, it must be able to keep track of many I/O requests at the same time. For this purpose, the operating system might attach the wait queue to a device-status table. The kernel manages this table, which contains an entry for each I/O device. Each table entry indicates the device’s type, address, and state (not functioning, idle, or busy). If the device is busy with a request, the type of request and other parameters will be stored in the table entry for that device.
 
 ### Timer Interrupts for Kernel Control
@@ -168,7 +168,7 @@ After I/O starts, control returns to user program ...
 	- Operating system set the counter (privileged instruction)
 	- When counter reaches zero, generate an interrupt
 	- Set up before scheduling process to regain control or terminate program that exceeds allotted time
-<img src="https://github.com/missystem/cis415review/blob/master/figure1.13.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/figure1.13.png">
 
 ### Process Management
 * A **process** is a program in execution
@@ -213,7 +213,7 @@ After I/O starts, control returns to user program ...
 	- allocating and deallocating memory space as needed
 
 ### Storage Hierarchy
-<img src="https://github.com/missystem/cis415review/blob/master/figure1.6.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/figure1.6.png">
 
 ### Storage Management
 * OS provides uniform, logical view of information storage
@@ -286,7 +286,7 @@ After I/O starts, control returns to user program ...
 		- provides an interface to client to request services (i.e., database)
 	- file-server system
 		- provides interface for clients to store and retrieve files
-<img src="https://github.com/missystem/cis415review/blob/master/figure1.22.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/figure1.22.png">
 
 ### Computing Environments – Peer-to-Peer (P2P)
 * Another model of distributed system
@@ -332,7 +332,7 @@ After I/O starts, control returns to user program ...
 * Cloud computing environments composed of traditional OSes, plus VMMs, plus cloud management tools
 	- Internet connectivity requires security like firewalls
 	- Load balancers spread traffic across multiple applications
-<img src="https://github.com/missystem/cis415review/blob/master/figure1.24.png">
+<img src="https://github.com/missystem/OperatingSystemConceptsReview/blob/master/figure1.24.png">
 
 ### Open Source Operating Systems
 * Operating systems made available in source-code format rather than just binary closed-source
