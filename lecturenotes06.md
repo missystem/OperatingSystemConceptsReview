@@ -1,14 +1,14 @@
-## [Lecture 06: CPU Scheduling (Chapter 5)](https://github.com/missystem/cis415review/blob/master/lecture-6-scheduling.pdf)
+## [Lecture 06: CPU Scheduling (Chapter 5)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-6-scheduling.pdf)
 
 ## Outline
-* [Basic Scheduling Concepts](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#basic-concepts--cpu-io-bursts)
-* [Scheduling Criteria](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#scheduling-criteria) 
-* [Scheduling Algorithms](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#scheduling-algorithms)
-* [Thread Scheduling](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#thread-scheduling)
-* [Multiple processor Scheduling](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#multiple-processor-scheduling)
-* [Real-Time CPU Scheduling](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#real-time-scheduling)
-* [Algorithm Evaluation](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#algorithm-evaluation)
-* [Summary](https://github.com/missystem/cis415review/blob/master/lecturenotes06.md#summary)
+* [Basic Scheduling Concepts](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#basic-concepts--cpu-io-bursts)
+* [Scheduling Criteria](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#scheduling-criteria) 
+* [Scheduling Algorithms](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#scheduling-algorithms)
+* [Thread Scheduling](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#thread-scheduling)
+* [Multiple processor Scheduling](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#multiple-processor-scheduling)
+* [Real-Time CPU Scheduling](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#real-time-scheduling)
+* [Algorithm Evaluation](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#algorithm-evaluation)
+* [Summary](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes06.md#summary)
 ---
 
 ### Resource Allocation

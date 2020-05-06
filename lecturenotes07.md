@@ -1,16 +1,16 @@
-## [Lecutre 07: Concurrency and Synchronization (Chapter 6/7)](https://github.com/missystem/cis415review/blob/master/lecture-7-synchronization.pdf)
+## [Lecutre 07: Concurrency and Synchronization (Chapter 6/7)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-7-synchronization.pdf)
 
 ## Outline
 * Background
-* [Critical-Section Problem](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#critical-section-problem-dijkstra-1965)
-* [Peterson’s Solution](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#petersons-solution)
-* [Synchronization Hardware](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#hardware-support-for-synchronization)
-* [Mutual Exclusion (Mutex) Locks](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#mutex-locks)
-* [Semaphores](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#semaphore-dijkstra)
-* [Monitors](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#monitors)
-* [Classic Problems of Synchronization](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#classical-problems-of-synchronization)
-* [Chapter 6 Summary from OSC](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#chapter-6-summary-from-osc)
-* [Chapter 7 Summary from OSC](https://github.com/missystem/cis415review/blob/master/lecturenotes07.md#chapter-7-summary-from-osc)
+* [Critical-Section Problem](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#critical-section-problem-dijkstra-1965)
+* [Peterson’s Solution](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#petersons-solution)
+* [Synchronization Hardware](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#hardware-support-for-synchronization)
+* [Mutual Exclusion (Mutex) Locks](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#mutex-locks)
+* [Semaphores](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#semaphore-dijkstra)
+* [Monitors](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#monitors)
+* [Classic Problems of Synchronization](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#classical-problems-of-synchronization)
+* [Chapter 6 Summary from OSC](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#chapter-6-summary-from-osc)
+* [Chapter 7 Summary from OSC](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes07.md#chapter-7-summary-from-osc)
 
 ---
 

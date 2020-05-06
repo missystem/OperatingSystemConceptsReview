@@ -1,11 +1,11 @@
-## [Lecture 03: Processes (Chapter 3)](https://github.com/missystem/cis415review/blob/master/lecture-3-processes.pdf)
+## [Lecture 03: Processes (Chapter 3)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-3-processes.pdf)
 
 ## Outline
-* [Process Concept](https://github.com/missystem/cis415review/blob/master/lecturenotes03.md#process-concept)
-* [Process Operation](https://github.com/missystem/cis415review/blob/master/lecturenotes03.md#process-creation)
-* [System Calls to Create Processes](https://github.com/missystem/cis415review/blob/master/lecturenotes03.md#program-creation-system-calls)
-* [Process Scheduling](https://github.com/missystem/cis415review/blob/master/lecturenotes03.md#process-scheduling)
-* [Summary](https://github.com/missystem/cis415review/blob/master/lecturenotes03.md#summary)
+* [Process Concept](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes03.md#process-concept)
+* [Process Operation](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes03.md#process-creation)
+* [System Calls to Create Processes](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes03.md#program-creation-system-calls)
+* [Process Scheduling](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes03.md#process-scheduling)
+* [Summary](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes03.md#summary)
 
 ### Overview of Processes
 * How are processes created?

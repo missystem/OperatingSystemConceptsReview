@@ -1,13 +1,13 @@
-## [Lecture 05: Threads (Chapter 4)](https://github.com/missystem/cis415review/blob/master/lecture-5-threads.pdf)
+## [Lecture 05: Threads (Chapter 4)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-5-threads.pdf)
 
 ## Outline
-* [Why thread? - Advantages of threads](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#advantages-of-threads)
-* [Why thread? - Problem solved with threads](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#problems-solved-with-threads)
-* [Why not thread?](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#why-not-threads)
-* [Threads vs. Processes](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#threads-vs-processes-difference)
-* [Thread Models](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#many-to-one-thread-model)
-* [Pthreads](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#posix-threads)
-* [Summary](https://github.com/missystem/cis415review/blob/master/lecturenotes05.md#summary)
+* [Why thread? - Advantages of threads](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#advantages-of-threads)
+* [Why thread? - Problem solved with threads](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#problems-solved-with-threads)
+* [Why not thread?](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#why-not-threads)
+* [Threads vs. Processes](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#threads-vs-processes-difference)
+* [Thread Models](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#many-to-one-thread-model)
+* [Pthreads](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#posix-threads)
+* [Summary](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes05.md#summary)
 
 ### Program with Multiple Processes
 <img width="811" height="487" src="https://github.com/missystem/cis415review/blob/master/prog_with_multiple_processes.png">

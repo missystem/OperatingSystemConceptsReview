@@ -1,13 +1,13 @@
-## [Lecture 08: Deadlocks (Chapter 8)](https://github.com/missystem/cis415review/blob/master/lecture-8-deadlocks.pdf)
+## [Lecture 08: Deadlocks (Chapter 8)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-8-deadlocks.pdf)
 
 ## Outline
-* [System Model](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#system-model)
-* [Deadlock Characterization](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#deadlock-characterization)
-* [Methods for Handling Deadlocks](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#methods-for-handling-deadlocks)
-* [Deadlock Prevention](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#deadlock-prevention--requirements)
-* [Deadlock Avoidance](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#deadlock-avoidance)
-* [Deadlock Detection](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#deadlock-detection)
-* [Recovery from Deadlock](https://github.com/missystem/cis415review/blob/master/lecturenotes08.md#deadlock-recovery--process-and-thread-termination)
+* [System Model](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#system-model)
+* [Deadlock Characterization](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#deadlock-characterization)
+* [Methods for Handling Deadlocks](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#methods-for-handling-deadlocks)
+* [Deadlock Prevention](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#deadlock-prevention--requirements)
+* [Deadlock Avoidance](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#deadlock-avoidance)
+* [Deadlock Detection](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#deadlock-detection)
+* [Recovery from Deadlock](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes08.md#deadlock-recovery--process-and-thread-termination)
 
 ---
 

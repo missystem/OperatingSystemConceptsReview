@@ -1,10 +1,10 @@
-## [Lecture 04: Interprocess Communication (Chapter 3)](https://github.com/missystem/cis415review/blob/master/lecture-4-ipc.pdf)
+## [Lecture 04: Interprocess Communication (Chapter 3)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecture-4-ipc.pdf)
 
 ## Outline
-* [Interprocesses Communication (IPC)](https://github.com/missystem/cis415review/blob/master/lecturenotes04.md#interprocess-communication-ipc)
-* [Sockets](https://github.com/missystem/cis415review/blob/master/lecturenotes04.md#sockets)
-* [Remote Procedure Calls (RPC)](https://github.com/missystem/cis415review/blob/master/lecturenotes04.md#remote-procedure-calls-rpc)
-* [Summary](https://github.com/missystem/cis415review/blob/master/lecturenotes04.md#summary)
+* [Interprocesses Communication (IPC)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes04.md#interprocess-communication-ipc)
+* [Sockets](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes04.md#sockets)
+* [Remote Procedure Calls (RPC)](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes04.md#remote-procedure-calls-rpc)
+* [Summary](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes04.md#summary)
 
 
 ### Process Communication
