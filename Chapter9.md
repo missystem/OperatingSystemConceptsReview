@@ -28,4 +28,7 @@
 	3. Replace the page number *p* in the logical address with the frame number *f*
 
 ### Exercises
-* 
+1. Name two differences between logical and physical address <br />
+2. Why are page sizes always powers of 2? <br />
+	(p361) The selection of a power of 2 as a page size makes the translation of a logical address into a page number and page offset particularly easy.
+3.
