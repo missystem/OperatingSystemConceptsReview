@@ -1,7 +1,7 @@
 # Virtual Memory
 
 ## Outline
-* [Background]()
+* [Background](https://github.com/missystem/OperatingSystemConceptsReview/blob/master/lecturenotes10.md#background)
 * [Demand Paging]()
 * [Copy-on-Write]()
 * [Page Replacement]()
@@ -12,12 +12,48 @@
 * [Other Considerations]()
 * [Operating-System Examples]()
 
+---
 
 ### Background
+* Code needs to be in memory to execute, but entire program rarely used
+	-  Error code, unusual routines, large data structures
+* Entire program code not needed at same time
+* Consider ability to execute partially-loaded program 
+	- Program no longer constrained by physical memory limits
+	- Each program takes less memory while running
+		- more programs run at the same time
+		- increased CPU utilization and throughput with no increase in response time or turnaround time
+	- Less I/O needed to load or swap programs into memory results in each user program running faster
 
 
+### Virtual Memory
+* Separation of logical memory from physical memory
+	-  If you can figure out how to have only part of the program needs to be in memory for execution ...
+	- ... then can separate the logical address space from physical address space and it can be larger
+* Benefits
+	- Can have programs with memory requirements much larger than physical memory
+	- Allows address spaces to be shared by several processes
+	- Allows for more efficient process creation
+	- More programs running concurrently
+	- Less I/O needed to load or swap processes
+* We call this “memory” virtual memory to distinguish from physical memory
 
 
+### Virtual Address Space (Logical Address Space)
+* Each process has a logical address space
+	- Usually start at address 0, contiguous addresses until end of space defined by # bits in the address
+* *virtual address space* of a process == *logical address space*
+* Memory management problem is the same
+	- Memory management unit (MMU) must map logical address space to physical address space
+	- Look at our memory management mechanisms
+* Difference from our discussion before
+	- To meet the needs of memory requested by processes
+	- Allow the amount of logical memory space used to be greater than the size of the physical memory
+	- Allow a process to run without all its memory in physical memory
+* Usually design logical address space for stack to start at Max logical address and grows “down” while heap grows “up”
+	- Maximizes address space use
+	- 
+	<img width="206" height="262" src="https://github.com/missystem/cis415review/blob/master/figure3.1_layout_of_a_process_in_memory.png">
 
 
 ### Demand Paging 
@@ -49,7 +85,7 @@
 
 ### Performance of Demand Paging
 * 3 major activities
-	1. Service the interrupt - careful coding means just several hundred insturctions needed
+	1. Service the interrupt - careful coding means just several hundred instructions needed
 
 * 
 *  Effective Access Time (EAT)
@@ -125,7 +161,7 @@
 
 
 ### FIFO Illustrating Belady’s Anomaly
-* Increase \# of frams -> increase \# of page faults
+* Increase \# of frames -> increase \# of page faults
 
 
 ### Optimal Algorithm
