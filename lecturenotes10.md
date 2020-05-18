@@ -50,10 +50,18 @@
 	- To meet the needs of memory requested by processes
 	- Allow the amount of logical memory space used to be greater than the size of the physical memory
 	- Allow a process to run without all its memory in physical memory
+<img width="206" height="262" src="https://github.com/missystem/cis415review/blob/master/figure3.1_layout_of_a_process_in_memory.png">
 * Usually design logical address space for stack to start at Max logical address and grows “down” while heap grows “up”
 	- Maximizes address space use
-	- 
-	<img width="206" height="262" src="https://github.com/missystem/cis415review/blob/master/figure3.1_layout_of_a_process_in_memory.png">
+	- Unused address space between the two is hole
+		- no physical memory needed until heap or stack grows to a given new page
+* Enables sparse address spaces with holes left for growth, dynamically linked libraries, ...
+* System libraries shared via mapping into virtual address space
+* Shared memory by mapping pages read-write into virtual address space
+* Pages can be shared during *fork()*, speeding process creation
+
+
+###
 
 
 ### Demand Paging 
