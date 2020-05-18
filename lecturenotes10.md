@@ -61,7 +61,8 @@
 * Pages can be shared during *fork()*, speeding process creation
 
 
-###
+### Shared Library Using Virtual Memory
+<img width="364" height="250" src="https://github.com/missystem/cis415review/blob/master/Shared_Library_Using_Virtual_Memory.png">
 
 
 ### Demand Paging 
